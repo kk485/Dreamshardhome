@@ -1,0 +1,32 @@
+[
+  {
+    "icon": "mdi:post",
+    "name": "个人博客",
+    "link": "https://blog.baiym.top/"
+  },
+  {
+    "icon": "ri:bilibili-fill",
+    "name": "哔哩哔哩",
+    "link": "https://www.bilibili.com/"
+  },
+    {
+    "icon": "ri:deepseek-fill",
+    "name": "Deepseek",
+    "link": "https://www.deepseek.com/"
+  },
+  {
+    "icon": "mdi:keyboard",
+    "name": "打字练习",
+    "link": "https://dazidazi.com/"
+  },
+  {
+    "icon": "mdi:image",
+    "name": "哲风壁纸",
+    "link": "https://haowallpaper.com/"
+  },
+  {
+    "icon": "mdi:cloud",
+    "name": "百度网盘",
+    "link": "https://pan.baidu.com/"
+  }
+]
